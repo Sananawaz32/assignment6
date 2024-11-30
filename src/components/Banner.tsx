@@ -15,10 +15,10 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="mt-6 md:mt-0 w-full md:w-[640px]">
-                    <Image src='/images/image.png'
-                     alt='Banner Image'
+                    <Image src='/Images/Image.png'
+                     alt=' Image'
                       width={720}
-                       height={900}
+                       height={500}
                         layout="responsive" />
                 </div>
             </div>
