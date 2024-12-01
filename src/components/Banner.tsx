@@ -19,7 +19,7 @@ const Banner = () => {
                      alt=' Image'
                       width={720}
                        height={500}
-                        layout="responsive" />
+                        className="contain" />
                 </div>
             </div>
         </div>
