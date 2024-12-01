@@ -8,34 +8,34 @@ const Logo = () => {
       <h1 className='font-roboto text-[16px] sm:text-[18px] md:text-[20px] font-bld text-center md:text-left'>Trusted by 2000+ companies<br /> worldwide.</h1>
       <div className='flex flex-wrap justify-center md:justify-between space-x-6 space-y-4 md:space-y-0'>
 
-        <Image src='/logo/logo1.png'
+        <Image src='/Logo/logo1.png'
          alt='Logo 1'
           width={70}
            height={70}
             className="w-16 h-auto md:w-20" />
 
-        <Image src='/logo/logo2.png'
+        <Image src='/Logo/logo2.png'
          alt='Logo 2'
           width={70}
           height={70}
            className="w-16 h-auto md:w-20" />
 
-        <Image src='/logo/logo3.png'
+        <Image src='Logo/logo3.png'
          alt='Logo 3'
           width={70} 
           height={70} 
           className="w-16 h-auto md:w-20" />
 
-        <Image src='/logo/logo4.png'
+        <Image src='/Logo/logo4.png'
          alt='Logo 4' width={70} height={70} className="w-16 h-auto md:w-20" />
 
-        <Image src='/logo/logo5.png'
+        <Image src='/Logo/logo5.png'
          alt='Logo 5'
           width={70} 
           height={70}
            className="w-16 h-auto md:w-20" />
 
-        <Image src='/logo/logo6.png'
+        <Image src='/Logo/logo6.png'
          alt='Logo 6'
           width={70}
            height={70} 
